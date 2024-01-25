@@ -184,7 +184,6 @@ flex: 1 0 0;
 align-self: stretch;
 &:hover{
   background-color: #a2d6d6;
-  box-shadow: 0 0 20px green;
 }
 &:focus{
   border: 2px solid orange;
