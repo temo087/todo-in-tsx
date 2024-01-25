@@ -79,7 +79,7 @@ background-color: lightgreen;
 height: 24px;
 flex-shrink: 0;
 border-radius: 50%;
-background-image: url("./public/green.svg");
+background-image: url("green.svg");
 background-position: -2px,0;
 cursor: pointer;
 &:hover{
