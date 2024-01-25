@@ -51,7 +51,7 @@ height: 202px;
 flex-shrink: 0;
 margin-top: -20px;
 border-radius: 10px 10px 0px 0px;
-background: url("./public/bg.svg"), lightgray 50% / cover no-repeat;
+background: url("public/foto.svg"), lightgray 50% / cover no-repeat;
 `
 const Temo = styled.h1`
   color: white;
@@ -61,7 +61,7 @@ font-weight: 400;
 line-height: normal;
 position: absolute;
 font-size: 40px;
-margin: 146px 0 0 218px ;
+margin: 146px 0 0 228px ;
 `
 const Davita = styled.h1`
 color: white;
