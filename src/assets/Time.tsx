@@ -51,7 +51,7 @@ height: 202px;
 flex-shrink: 0;
 margin-top: -20px;
 border-radius: 10px 10px 0px 0px;
-background: url("public/foto.svg"), lightgray 50% / cover no-repeat;
+background: url("public/temo.jpg"), lightgray 50% / cover no-repeat;
 `
 const Temo = styled.h1`
   color: white;
