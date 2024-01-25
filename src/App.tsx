@@ -8,7 +8,6 @@ interface TaskItemProps {
 }
 
 
-
 const App: React.FC = () => {
   const [tasks, setTasks] = useState<string[]>([]);
   const [newTask, setNewTask] = useState<string>('');
